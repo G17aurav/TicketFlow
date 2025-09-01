@@ -1,0 +1,11 @@
+/* Global reset */
+html, body, #root {
+  height: 100%;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;   /* ← removes the 8px default */
+  padding: 0;
+}
